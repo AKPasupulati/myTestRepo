@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/Features",
         glue = "com.bdd.automation.stepDefinitions",
-        plugin = {"pretty", "html:target/cucumber-reports.html"},
+        plugin = {"pretty", "html:target/cucumber-reports.html", "json:target/report.json"},
         monochrome = true,
         tags= "@Run"
 )
