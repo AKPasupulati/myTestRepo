@@ -7,6 +7,8 @@ testJava\HW3AmazonSearchResultsMatch.class
 testJava\SearchBarDropDown.class
 testJava\EmployeeHW.class
 testJava\SignInToGitHub.class
+testJava\EmployeeWithOverrideOfObjClassMethods.class
+testJava\StringsHW.class
 testJava\UnitedArlines.class
 testJava\GithubLogin.class
 testJava\InvokeBrowser.class

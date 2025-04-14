@@ -3,4 +3,9 @@ com\bdd\automation\stepDefinitions\GitHubLogin.class
 com\bdd\automation\stepDefinitions\Login.class
 TestNGPractice\TestClass1.class
 com\bdd\automation\stepDefinitions\TestRunner.class
+RestAssuredPractice\RestAssuredPractice1.class
+TestingPractice\Testing2.class
+com\bdd\automation\stepDefinitions\TestingFeatureFile.class
+com\bdd\automation\stepDefinitions\HelloWorld.class
 com\bdd\automation\stepDefinitions\wikipedia.class
+TestNGPractice\TestClass3.class
