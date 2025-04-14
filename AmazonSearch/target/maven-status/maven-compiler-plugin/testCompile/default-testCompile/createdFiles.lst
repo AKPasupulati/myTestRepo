@@ -1,0 +1,6 @@
+TestNGPractice\TestClass2.class
+com\bdd\automation\stepDefinitions\GitHubLogin.class
+com\bdd\automation\stepDefinitions\Login.class
+TestNGPractice\TestClass1.class
+com\bdd\automation\stepDefinitions\TestRunner.class
+com\bdd\automation\stepDefinitions\wikipedia.class
